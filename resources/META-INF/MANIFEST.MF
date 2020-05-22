@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/square.xml
+SHA1-Digest: gccCZTvXQlXXb8FU6pIvPft5adk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pQSiyZBr0wtBQMbUZ29TA2vUb4g=
+
+Name: res/layout/circle.xml
+SHA1-Digest: c+OzdZTwuK64QOTPT6UEvTH0Rrc=
+
+Name: res/drawable-xhdpi-v4/thd.png
+SHA1-Digest: xSQ+fHSoUqwWLVkFwtUBc/3krZE=
+
+Name: res/layout/triangle.xml
+SHA1-Digest: nWnKT3jQY4lXWqXDMM9AiGUhNEc=
+
+Name: classes2.dex
+SHA1-Digest: gkHhI2HpIOCefPHG8qldwwpGCcM=
+
+Name: res/layout/main.xml
+SHA1-Digest: tP/XzlsQC3P9BjGgc6++jLwYFfs=
+
+Name: res/layout/cube.xml
+SHA1-Digest: 6ib+WCTc+CA4ne3FAuEQW+W7uYI=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: Wigl1H578LaWODmFpRl8e3SUMfc=
+
+Name: res/drawable-xhdpi-v4/twod.png
+SHA1-Digest: YmVIIWW74I8gEuIFabsxL/CYYdo=
+
+Name: res/layout/sphere.xml
+SHA1-Digest: Av8wIGj98mq0UKkyAeHjczGpXiM=
+
+Name: res/layout/cone.xml
+SHA1-Digest: m47Ip4hC+KHmWDRPYXLaBWPuuj4=
+
+Name: res/drawable-xhdpi-v4/ic_list_black.png
+SHA1-Digest: CM6vjiI0XV3W9Kt9WQgk/4lgPu0=
+
+Name: res/layout/rectangle.xml
+SHA1-Digest: +rBojHrzLpIqV0KfPx7VqVr72fY=
+
+Name: res/layout/cuboid.xml
+SHA1-Digest: jFcBj/G1LuXYshz/sNNz/SYDFQM=
+
+Name: resources.arsc
+SHA1-Digest: nqYCIXIH6PWP2bCSkfqXgOIQOEQ=
+
+Name: classes.dex
+SHA1-Digest: ocNr/iEHhN0Sivnss0CSiQW7C7I=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: ojHzDrO0FQ9y5cFjJ0cal1swljM=
+
+Name: res/layout/cylinder.xml
+SHA1-Digest: TZBl2nywf7Kp74scojQczyDZ53k=
+

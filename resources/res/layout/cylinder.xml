@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/linear1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="20sp" android:textColor="#000000" android:id="@+id/textview1" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Cylinder"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/linear5" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <EditText android:textSize="12sp" android:textColor="#000000" android:textColorHint="#607d8b" android:id="@+id/edittext3" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="enter radius" android:inputType="numberDecimal"/>
+        <EditText android:textSize="12sp" android:textColor="#000000" android:textColorHint="#607d8b" android:id="@+id/edittext4" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="enter height" android:inputType="numberDecimal"/>
+        <Button android:textSize="12sp" android:textColor="#000000" android:id="@+id/button2" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="calculate"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/linear6" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview3" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="C.S.A"/>
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview4" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0.0"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/linear7" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview5" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="T.S.A"/>
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview6" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0.0"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/linear8" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview7" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Volume"/>
+            <TextView android:textSize="12sp" android:textColor="#000000" android:id="@+id/textview8" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0.0"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.my.newproject3" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28"/>
+    <application android:theme="@style/AppTheme" android:label="AreaVolume" android:icon="@drawable/app_icon" android:name="com.p000my.newproject3.SketchApplication" android:allowBackup="true" android:largeHeap="true">
+        <activity android:name="com.p000my.newproject3.MainActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.p000my.newproject3.CircleActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.SquareActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.RectangleActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.TriangleActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.SphereActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.CylinderActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.ConeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.CubeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.CuboidActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.p000my.newproject3.DebugActivity" android:screenOrientation="portrait"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+    </application>
+</manifest>
